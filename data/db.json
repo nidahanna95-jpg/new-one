@@ -1,0 +1,155 @@
+{
+  "university": {
+    "universityName": "ABC INTERNATIONAL UNIVERSITY DELHI",
+    "title": "Student Result Management System",
+    "location": "Chanakyapuri, New Delhi, 110021",
+    "academicYear": "2025–2026",
+    "examinationSession": "Annual Degree Examinations",
+    "isPublished": false,
+    "publishedAt": null
+  },
+  "examiner": {
+    "id": "ex_1",
+    "username": "Abhinav",
+    "name": "Abhinav",
+    "passwordHash": "c6b59dc17ae25a57e6c70cbce20699fa0b2873b2d6687d09ad12ae4d8fc07bbf16e086c0da4da373a3b041e0ec12dcb8c35fc9b36b73a9731a1cc679bbc1c38f",
+    "salt": "49e3528adacfad1f3d3f8231dfdfce83"
+  },
+  "students": [
+    {
+      "id": "std_1",
+      "name": "Anu",
+      "registerNumber": "PQASAEGR01",
+      "passwordHash": "e7c89d503de97674858dd246f094e5caf29505878c6a1001ee0a8110db9449fba7208e6e29e92bccda380f639ef1a9ec9c84b58b0cfc68169e3f2e4f356c1a38",
+      "salt": "f27b4819c5181f1f2f1eea1e586b4f44",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_2",
+      "name": "Manu",
+      "registerNumber": "PQASAEGR02",
+      "passwordHash": "d74acd10985adafdb7bcaddfb68c643cfb11329f375aefd5ba53cd9f1cefc8601381d76ca5d2a2c1ab1387657c564699e5834d461ebb5efbd8de7da36878a63c",
+      "salt": "e9e8b901764b0ec9049c765e035f9e70",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_3",
+      "name": "Sanu",
+      "registerNumber": "PQASAEGR03",
+      "passwordHash": "2fe63247272e698e5df17aaa29ed86db26cf6eb8f93122190da81fbcf0e586ff8370f86d57efa7da16ab126529918cac11bab8c8b8c36b46cb3aa48597ef9e95",
+      "salt": "da778e15d8192e2926b65c5e32e7f027",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_4",
+      "name": "Fanu",
+      "registerNumber": "PQASAEGR04",
+      "passwordHash": "4af0273744eda11907fe1e624c6356c514b55f16bafffc9c047ffcc2cc0c9a2fa9ecf30c8e4c14e36cb0f87e03bf433e02505b55f63fce0ac85d9c06ec676c4f",
+      "salt": "86f84b9e01973bf8261503ab80c177fd",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_5",
+      "name": "Minu",
+      "registerNumber": "PQASAEGR05",
+      "passwordHash": "697af2c0662511b62aaf3464c1c3f7d4dcec94efbafd1f3f1a2f0508d6c0b67c8d2054468e5edd0a74210eaaf543a2f94976a53671065dbbeb2cafd77563fdb2",
+      "salt": "aa7b5fbf437ea208f3675badedb98a09",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_6",
+      "name": "Ninu",
+      "registerNumber": "PQASAEGR06",
+      "passwordHash": "8cfcec34ce17d3f9a59c22cf8c89fd67180ea25b1cc0166b04d348a57e9a3a8ed2eb1f3a34516e262dd0cfb4a4136f16f1c35d55e8fd90d8060928fe25489227",
+      "salt": "5dcf9faba54e369c18d2cd7547d4dec6",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_7",
+      "name": "Lalu",
+      "registerNumber": "PQASAEGR07",
+      "passwordHash": "629c719f3507f570737551e89cd435b1faca0f468d94ffe3634f09131b44d07127c2f53534e473913f575fe5901c4ac408228374899099e9298db88dc6d2bcd7",
+      "salt": "47c6c68a39c175b70008f7dc373392e1",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_8",
+      "name": "Shalu",
+      "registerNumber": "PQASAEGR08",
+      "passwordHash": "85f6cb0a3a0541d4532d485f9617294997fb9427b9c1c1578ead87298a56c8df672487e697fd0ee30357ae1876101ffa12cd922623ddcffa86890e16a7ef754a",
+      "salt": "7900dd6ba80c6155442c78e30f2e1582",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_9",
+      "name": "Ponnu",
+      "registerNumber": "PQASAEGR09",
+      "passwordHash": "d40f1899c62af53db65c033ffd21b4e48c1232378403e28b497808b4000c3a6665b1695823b7b07dce3050709d17bdf82fb13ce3d38034fd70a4fdc71f9f07f7",
+      "salt": "e1cb407a022faf709f4d7375dfe4b348",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_10",
+      "name": "Minnu",
+      "registerNumber": "PQASAEGR10",
+      "passwordHash": "181e12ad6473360d39a7a3f6f8d4d0503338eae48d641649e2b86edb0e544cc6fbc35c723655ff3193d5d1b357e5c4f2ef21418b24d17fea87e3baf4eaf25c4c",
+      "salt": "4cf13d4b69ff3a087350d7b82e4b2c1e",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_11",
+      "name": "Chinnu",
+      "registerNumber": "PQASAEGR11",
+      "passwordHash": "d1a2ae1750aac6cd2dc4b42f59e7f66d2bd9e518d0d5e0e1684fc27b746b0fd635ebba3c45734b28e6d9927038d50a073478de331a0dc13bfda4baeb122500bc",
+      "salt": "10db62c261148203fa63049c9ba4230a",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_12",
+      "name": "Kunju",
+      "registerNumber": "PQASAEGR12",
+      "passwordHash": "f0c3918534a4f59728cd8b606b1132112da6d195edeab9180c5bb2f87014c0bf20dce52625812a4e39dde18de0f9d430c5b8a6b236f7e4ee273093daf29d21cf",
+      "salt": "a8df46e8dde419e8271b9080e3af5b16",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_13",
+      "name": "Sara",
+      "registerNumber": "PQASAEGR13",
+      "passwordHash": "68ea89a892f80d91f69c3fbf00b67b730098431e636dba663a8bd57108ac091e63850297f49b93a8f05fc9d521ed17aa38a0cc00c012aa8121a49133f69e61fe",
+      "salt": "71f58d1c12989ead85e02397ca492557",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_14",
+      "name": "Liya",
+      "registerNumber": "PQASAEGR14",
+      "passwordHash": "5af75c87b0148879ec7c8c8e9989bc7d98a053be15bed297903f813f639b03c269648305b7f025b016ee03c0218161cf28d0b8a6b55e08616337aeb90d168d21",
+      "salt": "82528b54a4c4a5b2e4867368c7ceba23",
+      "marks": null,
+      "updatedAt": null
+    },
+    {
+      "id": "std_15",
+      "name": "Mia",
+      "registerNumber": "PQASAEGR15",
+      "passwordHash": "33c17147c8a0ec3d3f345f7c0e7ac102d6e1d4f3339170b4c9a6a0ade2e4629797df93cd51ea997e82dac91d9d52c17441244604d4fc001a672387583e3efa03",
+      "salt": "4fe6e6264a303c9256490442bbb8d3c1",
+      "marks": null,
+      "updatedAt": null
+    }
+  ]
+}

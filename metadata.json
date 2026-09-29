@@ -1,0 +1,6 @@
+{
+  "name": "ABC International University - Student Result Management System",
+  "description": "Official Student Result Management System for ABC International University Delhi. Secure mark entry, result publication, statistical analytics, and student grade cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
